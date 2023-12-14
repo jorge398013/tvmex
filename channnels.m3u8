@@ -1,0 +1,61 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Movies" id-channel="1", Star Channel
+http://2.magmas5.com:8000/live/sunlink/dFIdo0UaMM/2563.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Abierta" id-channel="2",Las Estrellas
+http://2.magmas5.com:8000/live/sunlink/dFIdo0UaMM/138457.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Abierta" id-channel="3", Canal 5
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Abierta" id-channel="4", Azteca 7
+https://github.com/bannsec/BigBuckBunny_Dash/raw/master/BigBuckBunny_320x180.mp4
+
+#EXTINF:-1 tvg-logo="" tvg-name="NU9VE" group-title="Deportes" id-channel="5", NU9VE
+http://190.149.66.90:4000/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-name="Once" group-title="Abierta"   id-channel="6", Canal Once
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/129040.ts
+
+#EXTINF:-1 tvg-logo="" tvg-name="A mas +" group-title="Deportes" id-channel="7" , A mas +
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/3668.ts
+
+#EXTINF:-1 tvg-logo="" tvg-name="ADN 40" group-title="Abierta"  id-channel="8" , ADN 40
+https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-name="A&E" group-title="Cine"  id-channel="9" , A&E
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/138125.ts
+
+#EXTINF:-1 tvg-logo=" tvg-name="Malcolm in the Middle"  id-channel="10"  group-title="24/7", Malcolm in the Middle
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/138457.ts
+
+#EXTINF:-1 Uno" tvg-logo="" tvg-name="Azteca Uno" group-title="Mundo y Cultura"  id-channel="11" , Azteca Uno
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/129032.ts
+
+#EXTINF:-1 tvg-logo="" tvg-name="Las Estrellas" group-title="Mundo y Cultura" id-channel="12" , Las Estrellas
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/129048.ts
+
+#EXTINF:-1 tvg-logo="" tvg-name="Canal 5" group-title="Entretenimiento" id-channel="13" , Canal 5
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/129037.ts
+
+#EXTINF:-1 tvg-logo="" tvg-name="Azteca 7" group-title="Entretenimiento" id-channel="14", Azteca 7
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/129033.ts
+
+#EXTINF:-1 tvg-logo="" group-title="24/7"  id-channel="15" ,Don Gato y su Pandilla
+http://offshore.lat:8080/live/eusmiarea@/12q12@@wpo/263252.ts
+
+#EXTINF:-1 tvg-logo="" group-title="24/7"  id-channel="16" ,El Laboratorio de Dexter
+http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/129384.ts
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="24/7" id-channel="17",Los Picapiedras
+http://45.5.117.182:8000/play/a0eP/index.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="24/7"  id-channel="18" ,Rick and Morty
+http://45.5.117.182:8000/play/a0e8/index.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="24/7" id-channel="19"  ,The Big Bang Theory
+http://45.166.92.22:58001/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-name=""  group-title="24/7"  id-channel="20" , Malcolm in the Middle
+http://190.149.66.90:4000/play/a04r/index.m3u8
