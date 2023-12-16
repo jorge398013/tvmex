@@ -27,7 +27,7 @@ https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="A&E" group-title="Cine"  id-channel="9" , A&E
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/138125.ts
 
-#EXTINF:-1 tvg-logo=" tvg-name="Malcolm in the Middle"  id-channel="10"  group-title="24/7", Malcolm in the Middle
+#EXTINF:-1 tvg-logo="" tvg-name="Malcolm in the Middle"  id-channel="10"  group-title="24/7", Malcolm in the Middle
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/138457.ts
 
 #EXTINF:-1 Uno" tvg-logo="" tvg-name="Azteca Uno" group-title="Mundo y Cultura"  id-channel="11" , Azteca Uno
@@ -42,20 +42,20 @@ http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/129037.ts
 #EXTINF:-1 tvg-logo="" tvg-name="Azteca 7" group-title="Entretenimiento" id-channel="14", Azteca 7
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/129033.ts
 
-#EXTINF:-1 tvg-logo="" group-title="24/7"  id-channel="15" ,Don Gato y su Pandilla
-http://offshore.lat:8080/live/eusmiarea@/12q12@@wpo/263252.ts
+#EXTINF:-1 tvg-logo="" group-title="Cine"  id-channel="15" ,Sony Movies
+http://190.149.66.90:4000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="Cine" id-channel="16" ,HBO
 http://190.149.66.90:4000/play/a00c/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Películas" id-channel="17",HBO 2
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Cine" id-channel="17",HBO 2
 http://190.149.66.90:4000/play/a00d/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Películas"  id-channel="18" ,HBO Family
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Cine"  id-channel="18" ,HBO Family
 http://190.149.66.90:4000/play/a00f/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Películas" id-channel="19"  ,HBO Plus
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Cine" id-channel="19"  ,HBO Plus
 http://190.149.66.90:4000/play/a00e/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name=""  group-title="Películas"  id-channel="20" ,HBO Xtreme
+#EXTINF:-1 tvg-logo="" tvg-name=""  group-title="Cine"  id-channel="20" ,HBO Xtreme
 http://190.149.66.90:4000/play/a00g/index.m3u8
