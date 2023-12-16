@@ -48,14 +48,14 @@ http://190.149.66.90:4000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="Cine" id-channel="16" ,HBO
 http://190.149.66.90:4000/play/a00c/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Cine" id-channel="17",HBO 2
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png" tvg-name="" group-title="Cine" id-channel="17",HBO 2
 http://190.149.66.90:4000/play/a00d/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Cine"  id-channel="18" ,HBO Family
+#EXTINF:-1 tvg-logo="" tvg-name="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/603295-8c.png" group-title="Cine"  id-channel="18" ,HBO Family
 http://190.149.66.90:4000/play/a00f/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Cine" id-channel="19"  ,HBO Plus
+#EXTINF:-1 tvg-logo="" tvg-name="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425273-8c.png" group-title="Cine" id-channel="19"  ,HBO Plus
 http://190.149.66.90:4000/play/a00e/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name=""  group-title="Cine"  id-channel="20" ,HBO Xtreme
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425957-8c.png" tvg-name=""  group-title="Cine"  id-channel="20" ,HBO Xtreme
 http://190.149.66.90:4000/play/a00g/index.m3u8
