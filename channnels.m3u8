@@ -1,24 +1,24 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Movies" id-channel="1", Star Channel
+#EXTINF:-1 tvg-logo="" tvg-country="México" group-title="Movies" id-channel="1", Star Channel
 http://2.magmas5.com:8000/live/sunlink/dFIdo0UaMM/2563.ts
 
-#EXTINF:-1 tvg-logo="" group-title="Abierta" id-channel="2",Las Estrellas
+#EXTINF:-1 tvg-logo="" tvg-country="Peru" group-title="Abierta" id-channel="2",Las Estrellas
 http://2.magmas5.com:8000/live/sunlink/dFIdo0UaMM/138457.ts
 
-#EXTINF:-1 tvg-logo="" group-title="Abierta" id-channel="3", Canal 5
+#EXTINF:-1 tvg-logo="" tvg-country="México"  group-title="Abierta" id-channel="3", Canal 5
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Abierta" id-channel="4", Azteca 7
+#EXTINF:-1 tvg-logo="" tvg-country="México"  group-title="Abierta" id-channel="4", Azteca 7
 https://github.com/bannsec/BigBuckBunny_Dash/raw/master/BigBuckBunny_320x180.mp4
 
-#EXTINF:-1 tvg-logo="" tvg-name="NU9VE" group-title="Deportes" id-channel="5", NU9VE
+#EXTINF:-1 tvg-logo="" tvg-country="Peru" tvg-name="NU9VE" group-title="Deportes" id-channel="5", NU9VE
 http://190.149.66.90:4000/play/a00f/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="Once" group-title="Abierta"   id-channel="6", Canal Once
+#EXTINF:-1 tvg-logo="" tvg-country="Chile"  tvg-name="Once" group-title="Abierta"   id-channel="6", Canal Once
 https://youtu.be/-1n0AhM5tsc?si=4kf5H6rH8H_E8p58
 
-#EXTINF:-1 tvg-logo="" tvg-name="A mas +" group-title="Deportes" id-channel="7" , A mas +
+#EXTINF:-1 tvg-logo="" tvg-country="Chile"  tvg-name="A mas +" group-title="Deportes" id-channel="7" , A mas +
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/3668.ts
 
 #EXTINF:-1 tvg-logo="" tvg-name="ADN 40" group-title="Abierta"  id-channel="8" , ADN 40
