@@ -3,59 +3,59 @@
 #EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Movies" id-channel="1", Star Channel
 http://2.magmas5.com:8000/live/sunlink/dFIdo0UaMM/2563.ts
 
-#EXTINF:-1 tvg-logo="" tvg-country="Peru" group-title="Abierta" id-channel="2",Las Estrellas
+#EXTINF:-1 tvg-logo="" tvg-country="🇵🇪" group-title="Abierta" id-channel="2",Las Estrellas
 http://2.magmas5.com:8000/live/sunlink/dFIdo0UaMM/138457.ts
 
-#EXTINF:-1 tvg-logo="" tvg-country="México"  group-title="Abierta" id-channel="3", Canal 5
+#EXTINF:-1 tvg-logo="" tvg-country="🇨🇴"  group-title="Abierta" id-channel="3", Canal 5
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-country="México"  group-title="Abierta" id-channel="4", Azteca 7
+#EXTINF:-1 tvg-logo="" tvg-country="🇸🇻"  group-title="Abierta" id-channel="4", Azteca 7
 https://github.com/bannsec/BigBuckBunny_Dash/raw/master/BigBuckBunny_320x180.mp4
 
-#EXTINF:-1 tvg-logo="" tvg-country="Peru" tvg-name="NU9VE" group-title="Deportes" id-channel="5", NU9VE
+#EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" tvg-name="NU9VE" group-title="Deportes" id-channel="5", NU9VE
 http://190.149.66.90:4000/play/a00f/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-country="Chile"  tvg-name="Once" group-title="Abierta"   id-channel="6", Canal Once
+#EXTINF:-1 tvg-logo="" tvg-country="🇵🇪"  tvg-name="Once" group-title="Abierta"   id-channel="6", Canal Once
 https://youtu.be/-1n0AhM5tsc?si=4kf5H6rH8H_E8p58
 
-#EXTINF:-1 tvg-logo="" tvg-country="Chile"  tvg-name="A mas +" group-title="Deportes" id-channel="7" , A mas +
+#EXTINF:-1 tvg-logo="" tvg-country="🇵🇪"  tvg-name="A mas +" group-title="Deportes" id-channel="7" , A mas +
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/3668.ts
 
-#EXTINF:-1 tvg-logo="" tvg-country="Peru" tvg-name="ADN 40" group-title="Abierta"  id-channel="8" , ADN 40
+#EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" tvg-name="ADN 40" group-title="Abierta"  id-channel="8" , ADN 40
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 
-#EXTINF:-1 tvg-logo=""  tvg-country="Peru" tvg-name="A&E" group-title="Cine"  id-channel="9" , A&E
+#EXTINF:-1 tvg-logo=""  tvg-country="🇵🇪" tvg-name="A&E" group-title="Cine"  id-channel="9" , A&E
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/138125.ts
 
-#EXTINF:-1 tvg-logo=""   tvg-country="Peru"  tvg-name="Malcolm in the Middle"  id-channel="10"  group-title="24/7", Malcolm in the Middle
+#EXTINF:-1 tvg-logo=""   tvg-country="🇸🇻"  tvg-name="Malcolm in the Middle"  id-channel="10"  group-title="24/7", Malcolm in the Middle
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/138457.ts
 
-#EXTINF:-1 Uno" tvg-logo="" tvg-name="Azteca Uno" group-title="Mundo y Cultura"  tvg-country="Colombia"  id-channel="11" , Azteca Uno
+#EXTINF:-1 Uno" tvg-logo="" tvg-name="Azteca Uno" group-title="Mundo y Cultura"  tvg-country="🇨🇴"  id-channel="11" , Azteca Uno
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/129032.ts
 
-#EXTINF:-1 tvg-logo="" tvg-name="Las Estrellas" tvg-country="México"  group-title="Mundo y Cultura" id-channel="12" , Las Estrellas
+#EXTINF:-1 tvg-logo="" tvg-name="Las Estrellas" tvg-country="🇲🇽"  group-title="Mundo y Cultura" id-channel="12" , Las Estrellas
 http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/129048.ts
 
-#EXTINF:-1 tvg-logo="" tvg-name="Canal 5" tvg-country="Peru"  group-title="Entretenimiento" id-channel="13" , Canal 5
+#EXTINF:-1 tvg-logo="" tvg-name="Canal 5" tvg-country="🇵🇪"  group-title="Entretenimiento" id-channel="13" , Canal 5
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_AMAAC_SC
 
-#EXTINF:-1 tvg-logo="" tvg-name="Azteca 7" tvg-country="Peru"  group-title="Entretenimiento" id-channel="14", Azteca 7
+#EXTINF:-1 tvg-logo="" tvg-name="Azteca 7" tvg-country="🇻🇪"  group-title="Entretenimiento" id-channel="14", Azteca 7
 https://archive.org/download/la-oreja-de-van-gogh-discografia-1998-2020/La%20Oreja%20De%20Van%20Gogh%20-%20Discografia%20%281998-2020%29.iso/La%20Oreja%20De%20Van%20Gogh%20-%20Discografia%20%281998-2020%29%2FLa%20Oreja%20De%20Van%20Gogh%20%E2%80%93%20Mas%20Guapa%20-%202006%2FCD1%2F11.%20Manhattan.flac
 
-#EXTINF:-1 tvg-logo="" group-title="Cine"  tvg-country="México"  id-channel="15" ,Sony Movies
+#EXTINF:-1 tvg-logo="" group-title="Cine"  tvg-country="🇲🇽"  id-channel="15" ,Sony Movies
 http://190.149.66.90:4000/play/a01q/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="Cine" tvg-country="Colombia"  id-channel="16" ,HBO
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="Cine" tvg-country="🇨🇴"  id-channel="16" ,HBO
 http://190.149.66.90:4000/play/a00c/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png" tvg-name="" group-title="Cine" tvg-country="Peru"  id-channel="17",HBO 2
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png" tvg-name="" group-title="Cine" tvg-country="🇲🇽"  id-channel="17",HBO 2
 http://190.149.66.90:4000/play/a00d/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/603295-8c.png" tvg-name="" group-title="Cine"  tvg-country="Colombia"  tvg-country="Colombia"  id-channel="18" ,HBO Family
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/603295-8c.png" tvg-name="" group-title="Cine"  tvg-country="🇨🇴"  tvg-country="Colombia"  id-channel="18" ,HBO Family
 http://190.149.66.90:4000/play/a00f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425273-8c.png" tvg-name="" tvg-country="Peru" group-title="Cine" id-channel="19"  ,HBO Plus
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425273-8c.png" tvg-name="" tvg-country="🇲🇽" group-title="Cine" id-channel="19"  ,HBO Plus
 http://190.149.66.90:4000/play/a00e/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425957-8c.png" tvg-name=""  tvg-country="México" group-title="Cine"  id-channel="20" ,HBO Xtreme
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425957-8c.png" tvg-name=""  tvg-country="🇲🇽" group-title="Cine"  id-channel="20" ,HBO Xtreme
 http://190.149.66.90:4000/play/a00g/index.m3u8
