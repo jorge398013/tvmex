@@ -5,27 +5,44 @@
 https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1268_Fare_Sport_MX.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="2", Fare Sport
 https://eu1.servers10.com:8081/8140/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/664_Canal_Once_Internacional.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="3",  Canal Once Internacional
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/664_Canal_Once_Internacional.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="3", Canal Once Internacional
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/657_15TV_Sabinas.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="4", 15TV Sabinas
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="5",  
-#EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="6",  
-#EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="7",  
-#EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="8",  
-#EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="9",  
-#EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="10",  
-#EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="11",  
-#EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="12",  
-#EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="13",  
-#EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="14",  
-#EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="15",  
-#EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="16",  
-#EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="17",  
-#EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="18",  
-#EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="19",  
-#EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="20",  
-#EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="21",  
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/642_8_NTV.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="5", 8 NTV 
+https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/658_ADN_40.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="6", ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/659_Canal_10_Cancun.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="7", Canal 10 Cancun
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/660_Canal_10_Chiapas.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="8", Canal 10 Chiapas
+https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/640_Canal_12_1_Colima.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="9", Canal 12.1 Colima
+https://5ca9af4645e15.streamlock.net:443/canal11/videocanal11/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/661_Canal_15_Fresnillo.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="10", Canal 15 Fresnillo
+https://60ed5b6d0df78.streamlock.net:1936/lsac/ngrp:lsac_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/644_Canal_28_Nuevo_Leon.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="11", Canal 28 Nuevo Leon
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/663_Canal_4_Saltillo.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="12", Canal 4 Saltillo
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/639_Canal_7_SLP.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="13", Canal 7 SLP
+https://mvtvstream.com:444/live/603d046595b62/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1171_Canal_Cultural_Huauchinango.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="14", Canal Cultural Huauchinango
+https://7964-201-114-105-69.ngrok.io/tmp_hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/772_Canal_Once_Mexico.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="15", Canal Once Mexico
+https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/665_Canal_Once_Nacional.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="16", Canal Once Nacional
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/634_Central_FM.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="17", Central FM
+https://5fe2654d6127d.streamlock.net:443/centralfm/smil:centralfm.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1119_Enfoque_de_la_Sierra.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="18", Enfoque de la Sierra
+https://90f2-201-114-105-69.ngrok.io/tmp_hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1409_G3_Radio.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="19", G3 Radio
+https://pistream.ddns.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/645_Genesis_TV.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="20", Genesis TV
+https://53c64a8009488.streamlock.net/genesis/smil:television.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/635_Impactovision.webp" tvg-country="🇲🇽" group-title="Abierta" id-channel="21", Impactovision
+https://5ca9af4645e15.streamlock.net:443/impactovision/videoimpactovision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="22",  
 #EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="23",  
 #EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="24",  
