@@ -6,8 +6,8 @@ https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="2",
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/664_Canal_Once_Internacional.png" tvg-country="🌎" group-title="Abierta" id-channel="3", Canal Once Internacional
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="3",
+
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/657_15TV_Sabinas.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="4", 15TV Sabinas
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/642_8_NTV.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="5", 8 NTV 
@@ -20,8 +20,9 @@ https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/640_Canal_12_1_Colima.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="9", Canal 12.1 Colima
 https://5ca9af4645e15.streamlock.net:443/canal11/videocanal11/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/661_Canal_15_Fresnillo.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="10", Canal 15 Fresnillo
-https://60ed5b6d0df78.streamlock.net:1936/lsac/ngrp:lsac_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="10",
+
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/644_Canal_28_Nuevo_Leon.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="11", Canal 28 Nuevo Leon
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/663_Canal_4_Saltillo.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="12", Canal 4 Saltillo
