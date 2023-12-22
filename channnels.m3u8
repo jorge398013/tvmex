@@ -5,7 +5,7 @@
 https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="2",movie
-http://158.69.158.102/Peliculas/Listo/30122022_1136/volver_al_futuro.mkv
+http://158.69.158.102/Peliculas/Listo/30122022_1136/toy_story.mkv
 #EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="3",
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/657_15TV_Sabinas.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="4", 15TV Sabinas
