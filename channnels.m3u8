@@ -63,8 +63,8 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/672_Presumiendo_Mexico.png" tvg-country="🇲🇽" group-title="Abierta" id-channel="29", Presumiendo Mexico
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="30", Prueba 01
-https://dc0yy1cy2mqs1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cmi4c1ko7cgug/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="30", HBO Family
+http://187.102.208.108:50001/play/a01x/index.m3u8
 
 
 
