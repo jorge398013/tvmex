@@ -91,12 +91,4 @@ https://archive.org/download/general-sa-aerial-00080-preview/GENERAL_SA_AERIAL_0
 #EXTINF:-1 tvg-logo="" tvg-country="" group-title="Abierta" id-channel="28", Channel 30
 https://archive.org/download/general-sa-aerial-00080-preview/GENERAL_SA_AERIAL_00080_preview.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/672_Presumiendo_Mexico.png" tvg-country="" group-title="Abierta" id-channel="29", Presumiendo Mexico
-https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-country="" group-title="Abierta" id-channel="30", HBO Family
-http://187.102.208.108:50001/play/a01x/index.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="" tvg-country="🇲🇽" group-title="Abierta" id-channel="", 
