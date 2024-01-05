@@ -2,7 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="" tvg-country="" group-title="Abierta" id-channel="1", Channel 1
-http://187.102.208.108:50001/play/a01x/index.m3u8
+https://archive.org/download/general-sa-aerial-00080-preview/GENERAL_SA_AERIAL_00080_preview.mp4
 
 #EXTINF:-1 tvg-logo="" tvg-country="" group-title="Abierta" id-channel="2", Channel 2
 https://archive.org/download/general-sa-aerial-00080-preview/GENERAL_SA_AERIAL_00080_preview.mp4
